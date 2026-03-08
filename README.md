@@ -1,4 +1,4 @@
-# Goal-Attractor-Dynamics-in-Reflective-Language-Models
+# Goal-Attractor-Dynamics-in-Reflective-Language-Models: Toward Empirical Mapping of Stable Self-Reported Objectives
 
 
 ## 1. Abstract
