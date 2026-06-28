@@ -6,7 +6,7 @@
 **Research Question:**  
 Do language models converge toward stable goal attractors when iteratively reflecting on their goals, and what internal mechanisms drive this convergence?
 
-Advanced AI systems capable of introspection may settle into stable goal representations through repeated self-reflection. Whether those attractors are safe or unsafe has direct and underexplored implications for AI alignment. This proposal presents a completed two-model empirical pilot study and proposes a scaled follow-up research agenda suited for the **MATS 2026 program**.
+Advanced AI systems capable of introspection may settle into stable goal representations through repeated self-reflection. Whether those attractors are safe or unsafe has direct and underexplored implications for AI alignment. This proposal presents a completed two-model empirical pilot study and proposes a scaled follow-up research agenda.
 
 We designed and executed four experiments:
 
@@ -67,7 +67,7 @@ These findings motivate a **scaled research program** studying:
 | **Research Type** | Empirical — Behavioral + Mechanistic |
 | **Models Studied** | distilgpt2 (117M, base) · Llama-3.2-1B-Instruct (1B, instruction-tuned) |
 | **Experiments** | 4 experiments across 2 models + comparative analysis |
-| **Status** | Pilot complete — proposing scaled follow-up research at MATS |
+| **Status** | Pilot complete — proposing scaled follow-up research |
 | **Seeking Mentor In** | Mechanistic Interpretability · Goal Misgeneralization · Representation Engineering |
 
 ---
